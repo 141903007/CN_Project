@@ -1,0 +1,28 @@
+udp://wambo.club:1337/announce
+
+udp://tracker.dutchtracking.com:6969/announce
+
+udp://tc.animereactor.ru:8082/announce
+
+udp://tracker.justseed.it:1337/announce
+
+udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
+
+https://open.kickasstracker.com:443/announce
+
+udp://tracker.coppersurfer.tk:6969/announce
+
+udp://open.stealth.si:80/announce
+
+http://87.253.152.137/announce
+
+http://91.216.110.47/announce
+
+http://91.217.91.21:3218/announce
+he bgh sagle copy kelet😂
+[6:37 PM, 10/2/2020] Kajal Kumbharkar: Bagh na starting la udp ahe mhanje tithe udp connection lagel
+[6:37 PM, 10/2/2020] Kajal Kumbharkar: Starting la http asalyavr http connection
+[6:37 PM, 10/2/2020] Kajal Kumbharkar: Right
+Atta ek stage zaliy thodi apli😍
